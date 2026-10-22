@@ -37,7 +37,7 @@ Obesity-induced OA comes from metabolic and inflammatory crosstalk between fat t
 ## Related work
 
 - My PhD single-cell study of synovial fibroblasts in obese and non-obese OA (64,125 cells), which identified a CD34+ fibroblast population lost in obesity: analysis code in [obese_OA](https://github.com/hvgogogo/obese_OA)
-- Interactive data portal for that study: [FAB-OAOB](https://yz-lab.org/main/tool/fab/)
+- Interactive data portal for that study: [FAB-OAOB](https://hvgogogo.github.io/obese_OA_dp/)
 
 ## Citation
 
